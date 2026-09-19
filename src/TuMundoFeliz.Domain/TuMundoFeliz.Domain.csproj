@@ -1,0 +1,4 @@
+<!--
+Descripcion: Proyecto central de la arquitectura hexagonal.
+Aqui viviran las entidades, enums, value objects y reglas puras del negocio. No debe depender de Api, Application ni Infrastructure.
+-->

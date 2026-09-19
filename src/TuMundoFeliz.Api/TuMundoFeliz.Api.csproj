@@ -1,0 +1,4 @@
+<!--
+Descripcion: Proyecto de entrada de la arquitectura hexagonal.
+Aqui se configurara .NET 10, el arranque de la API REST, Swagger, controladores, validaciones de entrada y las referencias hacia Application e Infrastructure.
+-->

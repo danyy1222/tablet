@@ -1,0 +1,4 @@
+<!--
+Descripcion: Proyecto de casos de uso de la arquitectura hexagonal
+Aqui viviran los DTOs, puertos de entrada, puertos de salida y use cases que coordinan las reglas del negocio usando el dominio
+-->

@@ -1,0 +1,4 @@
+<!--
+Descripcion: Proyecto de adaptadores de salida de la arquitectura hexagonal.
+Aqui se implementaran persistencia, repositorios, datos iniciales, integraciones externas e impresion si el sistema lo requiere.
+-->
